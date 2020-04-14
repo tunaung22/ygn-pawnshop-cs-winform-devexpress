@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="ygndb" EntityNamespace="ygn.models" ContextNamespace="ygn.models" Class="Ygndb" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="cash_balance" Member="Cash_balances">
+    <Type Name="Cash_balance">
+      <Column Name="balance_id" Member="Balance_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="entry_date" Member="Entry_date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="opening_balance" Member="Opening_balance" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="closing_balance" Member="Closing_balance" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="modified_on" Member="Modified_on" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="cash_transaction" Member="Cash_transactions">
+    <Type Name="Cash_transaction">
+      <Column Name="_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="transaction_date" Member="Transaction_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="transaction_type" Member="Transaction_type" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="transaction_amount" Member="Transaction_amount" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="description" Member="Description" Type="System.String" DbType="NVarChar(800)" CanBeNull="true" />
+      <Column Name="modified_on" Member="Modified_on" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="gold_transaction" Member="Gold_transactions">
+    <Type Name="Gold_transaction">
+      <Column Name="_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="transaction_date" Member="Transaction_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="transaction_type" Member="Transaction_type" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="transaction_amount" Member="Transaction_amount" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="description" Member="Description" Type="System.String" DbType="NVarChar(800)" CanBeNull="true" />
+      <Column Name="modified_on" Member="Modified_on" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="pawn_transaction" Member="Pawn_transactions">
+    <Type Name="Pawn_transaction">
+      <Column Name="voucher_no" Member="Voucher_no" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="voucher_type" Member="Voucher_type" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="customer_name" Member="Customer_name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="customer_nrc" Member="Customer_nrc" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="customer_address" Member="Customer_address" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="item_type" Member="Item_type" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="item_name" Member="Item_name" Type="System.String" DbType="NVarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="item_weight" Member="Item_weight" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="en_amount" Member="En_amount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="mm_amount" Member="Mm_amount" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="mm_amount_text" Member="Mm_amount_text" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="description" Member="Description" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="pawn_date" Member="Pawn_date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="receive_date" Member="Receive_date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="user_name" Member="User_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="is_received" Member="Is_received" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="interest_rate" Member="Interest_rate" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="modified_on" Member="Modified_on" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="voucher_code" Member="Voucher_codes">
+    <Type Name="Voucher_code">
+      <Column Name="voucher_code_id" Member="Voucher_code_id" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="custom_voucher_code" Member="Custom_voucher_code" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="item_type" Member="Item_type" Type="System.Byte" DbType="TinyInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="voucher_type" Member="Voucher_type" Type="System.Byte" DbType="TinyInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="modified_on" Member="Modified_on" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

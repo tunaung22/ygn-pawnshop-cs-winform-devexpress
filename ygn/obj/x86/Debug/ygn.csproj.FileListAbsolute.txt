@@ -1,0 +1,90 @@
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.MainForm.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.Properties.Resources.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.views.CloseBalance.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.views.GoldTransaction.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.views.Report.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.views.PawnReceive.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.views.PawnTransaction.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.views.VoucherCode.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.exe.licenses
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\bin\Debug\ygn.exe.config
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\bin\Debug\ygn.exe
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\bin\Debug\ygn.pdb
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.exe
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.pdb
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.views.CashTransaction.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.views.ExpiredInvoice.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptPawn.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\bin\Debug\ygndb.sdf
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptExpired.resources
+C:\Users\sam1i\Dropbox\Projects\visualstudio-projects\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptPawnReceive.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygndb.sdf
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygn.exe.config
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygn.exe
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygn.pdb
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.MainForm.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.Properties.Resources.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptExpired.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptPawn.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptPawnReceive.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.CashTransaction.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.CloseBalance.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.ExpiredInvoice.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.GoldTransaction.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.Report.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.PawnReceive.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.PawnTransaction.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.VoucherCode.resources
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.csproj.GenerateResource.Cache
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.exe.licenses
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.exe
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.pdb
+C:\Users\THEIN WIN\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.csprojResolveAssemblyReference.cache
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygndb.sdf
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygndb_misc.sdf
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygn.exe.config
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygn.exe
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\ygn.pdb
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\DevExpress.Persistent.Base.v11.1.dll
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\bin\Debug\DevExpress.Persistent.Base.v11.1.xml
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.MainForm.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.Properties.Resources.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptExpired.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptPawn.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptPawnReceive.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.CashTransaction.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.CloseBalance.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.ExpiredInvoice.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.GoldTransaction.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.Report.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.PawnReceive.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.PawnTransaction.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.views.VoucherCode.resources
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.csproj.GenerateResource.Cache
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.exe.licenses
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.exe
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.pdb
+C:\Users\sam1i\Documents\Visual Studio 2012\Projects\ygn\ygn\obj\x86\Debug\ygn.csprojResolveAssemblyReference.cache
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\bin\Debug\ygn.exe.config
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.exe
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.pdb
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.Properties.Resources.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptExpired.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptPawn.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.report.rptPawnReceive.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.views.ExpiredInvoice.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.views.Report.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.MainForm.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.views.CashTransaction.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.views.CloseBalance.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.views.GoldTransaction.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.views.PawnReceive.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.views.PawnTransaction.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.views.VoucherCode.resources
+C:\Users\sam1i\Documents\Visual Studio 2010\Projects\ygn\ygn\obj\x86\Debug\ygn.exe.licenses
